@@ -15,4 +15,4 @@ EXPORT_DIR = "C:\\BuildTools\\vcpkg\\export"
 
 ```
 
-
+![alt text](https://raw.githubusercontent.com/SaulBerrenson/vcpkg-simple-installer/main/zc93A1zdYO.gif)
